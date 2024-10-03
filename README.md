@@ -1,5 +1,4 @@
-# Hello, World!
-# (...get it?)
+# Hello, World! (...get it?)
 
 ### Programming Languages
 <p>
