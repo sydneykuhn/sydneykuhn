@@ -13,6 +13,6 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Profile views since 09/08/25
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=sydneykuhn&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
