@@ -1,4 +1,9 @@
-# Hello, World! (...get it?)
+# Hello, World! ...get it?
+
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=black&background=white&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello,+World!+...+get+it?;My+name+is+Sydney+Kuhn+a+3rd+year+computer+enginerring+student+at+Carleton+University%2C+PharmD;" alt="Typing SVG" /></a>
+</h1>
+<br>
 
 ### Programming Languages
 <p>
