@@ -12,6 +12,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### Profile views since 09/08/25
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sydneykuhn&color=red&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=sydneykuhn&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
