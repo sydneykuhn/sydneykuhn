@@ -16,7 +16,7 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sydneykuhn&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="umangahuja1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sydneykuhn&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="sydneykuhn" /></p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sydneykuhn&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
