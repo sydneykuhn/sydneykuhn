@@ -1,7 +1,11 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1000&pause=150&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1920&height=500&lines=Hello,+World!+...+get+it?;;My+name+is+Sydney+Kuhn;;I'm+a+3rd+year+computer+engineering+student;at+Carleton+University" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=800&pause=100&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1920&height=500&lines=Hello,+World!+...+get+it?;;My+name+is+Sydney+Kuhn;;I'm+a+3rd+year+computer+engineering+student;at+Carleton+University" alt="Typing SVG" /></a>
 </h1>
 <br>
+
+### About Me
+Per my professors’ request, I don’t upload any assessed coursework from Carleton on here.
+Instead, this GitHub showcases projects from high school and some personal projects I've worked on!
 
 ### Programming Languages
 <p>
