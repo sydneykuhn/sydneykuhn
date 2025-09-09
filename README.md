@@ -12,7 +12,9 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Profile views since 09/08/25
-<p align="right">
+### Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sydneykuhn&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="umangahuja1" /></p>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sydneykuhn&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
