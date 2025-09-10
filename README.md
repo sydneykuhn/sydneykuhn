@@ -8,9 +8,12 @@ Instead, this GitHub showcases projects from high school and some personal proje
 
 ### Programming Languages
 <p>
-  <a href="https://github.com/search?q=user%3Asydneykuhn+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Asydneykuhn+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Asydneykuhn+language%3Acpp"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-9C033A.svg?logo=cpp2&logoColor=white"></a>
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+  [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+  [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+  [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneykuhn&layout=compact)
   
@@ -18,6 +21,10 @@ Instead, this GitHub showcases projects from high school and some personal proje
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+  [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
+  [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 ### Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sydneykuhn&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="sydneykuhn" /></p>
