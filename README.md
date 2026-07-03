@@ -1,5 +1,5 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1000&pause=200&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1920&height=425&lines=Hello,+World!+X+D;;My+name+is+Sydney+Kuhn;;I'm+a+4th+year+computer+engineering+student;at+Carleton+University+%F0%9F%91%8B&repeat=0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1000&pause=200&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1920&height=425&lines=Hello,+World!;;My+name+is+Sydney+Kuhn;;I'm+a+4th+year+computer+engineering+student;at+Carleton+University+%F0%9F%91%8B&repeat=0" alt="Typing SVG" /></a>
 </h1>
 
 ### About Me
@@ -26,8 +26,6 @@ Instead, this GitHub showcases projects from high school and some personal proje
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 ### Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sydneykuhn&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="sydneykuhn" /></p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sydneykuhn&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
