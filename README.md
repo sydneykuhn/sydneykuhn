@@ -15,10 +15,9 @@
 </p>
 
 ### About Me
-I'm a **4th Year Computer Systems Engineering** student at **Carleton University** with an interest in **software development, backend systems, cloud technologies, and full-stack applications**.
+I'm a 4th Year Computer Systems Engineering student at Carleton University with an interest in software development, backend systems, cloud technologies, and full-stack applications.
 
 Per my professors’ request, I don’t upload any assessed coursework from Carleton on here.
-Instead, this GitHub showcases projects from high school and some personal projects I've worked on!
 
 ### Programming Languages
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -40,8 +39,4 @@ Instead, this GitHub showcases projects from high school and some personal proje
 ### Github Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sydneykuhn&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sydneykuhn&show_icons=true&theme=github&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sydneykuhn&layout=compact&theme=github&hide_border=true" />
 </p>
